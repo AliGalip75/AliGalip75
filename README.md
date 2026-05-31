@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Galip Yetiş</h1>
-<h3 align="center">A passionate fullstack developer from Turkey.</h3>
+<h3 align="center">A passionate fullstack developer from Ankara/Turkey.</h3>
 
 - 🔭 I’m currently working on [E-commerce](https://github.com/AliGalip75/E-Commerce-with-Django-React)
 
