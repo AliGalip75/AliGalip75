@@ -28,5 +28,4 @@ Ali Galip Yetiş
 - [x] TÜBİTAK 2209-A Vehicle Re-ID Project Implementation
 - [x] SmartShop AI Multimodal Assistant Hackathon MVP
 - [x] Kanban Board with Zustand & Django API
-- [x] Medicine Tracker App Deployment
 - [ ] Graduation & Technical Interview Preparations
